@@ -1,2 +1,2 @@
 ### Tic Tac Toe Game
-Made this game by using  Programming Language.
+Made this game by using C Programming Language.
